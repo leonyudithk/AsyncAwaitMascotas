@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Yudith",
+      "apellido": "Leon",
+      "correo": "leonyudith@gmail.com"
+    },
+    {
+      "id": 2,
+      "nombre": "Gustavo",
+      "apellido": "Tovar",
+      "correo": "gustavotovar@gmail.com"
+    },
+    {
+      "nombre": "Alejandro",
+      "apellido": "leon Viillasmil",
+      "correo": "yudithkleon@gmail.com",
+      "id": 3
+    },
+    {
+      "nombre": "Cecila",
+      "apellido": "Alvarez",
+      "correo": "cecilia@gmail.com",
+      "id": 4
+    }
+  ]
+}
